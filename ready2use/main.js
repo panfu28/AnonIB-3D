@@ -145,15 +145,6 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 
 
 
-
-
-
-
-
-
-
-
-
 var appRoutes = [
     { path: '',
         pathMatch: 'full',
