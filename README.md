@@ -49,10 +49,12 @@ Map is to change map. At the top you got a selector to choose the chan of the ma
 ## Project status
 Alex paused the project due to his personal situation, this fork aims at making progress on his absence.
 
+## To do
+- Add flatfile and or SQLite support
+
 ## Support
 For any question or problem contact me by mail (pvnfu@hopto.org).
 I don't yet know how everything works so I might redirect you to Alex at (monsieur.krunch@gmail.com) or on Twitter (https://twitter.com/alexkrunch)
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
